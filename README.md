@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh-jain-21
+- 👋 Hi, I’m Rishabh Jain
 - 👀 I’m interested in html , jquery , bootstrap
 - 🌱 I’m currently learning java , react js
 - 💞️ I'm working with my friends 
