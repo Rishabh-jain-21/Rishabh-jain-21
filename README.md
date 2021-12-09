@@ -13,3 +13,7 @@
 <a href = "mailto: rishabhjain47596@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
+👀 I’m interested in html , jquery , bootstrap
+🌱 I’m currently learning java , react js
+💞️ I'm working with my friends
+📫 How to reach me (invalid
