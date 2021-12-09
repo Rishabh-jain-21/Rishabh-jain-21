@@ -13,4 +13,4 @@
 <a href = "mailto: rishabhjain47596@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=Rishabh-jain-21&show_icons=true&theme=tokyonight)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-jain-21&theme=tokyonight&layout=compact)
