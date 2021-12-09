@@ -19,4 +19,4 @@
 <br>
 💞️ I'm working with my friends
 <br>
-📫 How to reach me (invalid
+📫 How to reach me (<a href="mailto : rishabhjain47596@gmail.com">Click</a>)
