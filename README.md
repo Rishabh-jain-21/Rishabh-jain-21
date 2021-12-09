@@ -17,4 +17,4 @@
 📫 How to reach me (<a href="mailto : rishabhjain47596@gmail.com">Click</a>)4
 <hr>
 My Skills :
-<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639046134~hmac=c2568b19742ef27f19798bbf2a74d1d5" />
+<img src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1639046134~hmac=c2568b19742ef27f19798bbf2a74d1d5" height="40"/>
