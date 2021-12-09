@@ -14,6 +14,9 @@
 </p>
 </p>
 👀 I’m interested in html , jquery , bootstrap
+<br>
 🌱 I’m currently learning java , react js
+<br>
 💞️ I'm working with my friends
+<br>
 📫 How to reach me (invalid
