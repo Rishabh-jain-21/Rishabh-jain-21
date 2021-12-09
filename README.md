@@ -13,5 +13,3 @@
 <a href = "mailto: rishabhjain47596@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-jain-21&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
