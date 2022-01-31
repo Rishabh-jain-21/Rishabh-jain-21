@@ -8,11 +8,11 @@
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 </p>
 </p>
-👀 I’m interested in html , jquery , bootstrap
+👀 I’m interested in Development
 <br>
-🌱 I’m currently learning java , react js
+🌱 I’m currently using M.E.R.N Stack
 <br>
-💞️ I'm working with my friends
+💞️ I'm working on my own
 <br>
 📫 How to reach me (<a href="mailto : rishabhjain47596@gmail.com">Click</a>)4
 <hr>
